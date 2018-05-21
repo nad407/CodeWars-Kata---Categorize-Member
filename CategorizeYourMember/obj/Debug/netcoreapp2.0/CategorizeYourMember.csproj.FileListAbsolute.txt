@@ -1,0 +1,11 @@
+C:\Users\Schools_home\source\repos\CategorizeYourMember\CategorizeYourMember\bin\Debug\netcoreapp2.0\CategorizeYourMember.deps.json
+C:\Users\Schools_home\source\repos\CategorizeYourMember\CategorizeYourMember\bin\Debug\netcoreapp2.0\CategorizeYourMember.runtimeconfig.json
+C:\Users\Schools_home\source\repos\CategorizeYourMember\CategorizeYourMember\bin\Debug\netcoreapp2.0\CategorizeYourMember.runtimeconfig.dev.json
+C:\Users\Schools_home\source\repos\CategorizeYourMember\CategorizeYourMember\bin\Debug\netcoreapp2.0\CategorizeYourMember.dll
+C:\Users\Schools_home\source\repos\CategorizeYourMember\CategorizeYourMember\bin\Debug\netcoreapp2.0\CategorizeYourMember.pdb
+C:\Users\Schools_home\source\repos\CategorizeYourMember\CategorizeYourMember\obj\Debug\netcoreapp2.0\CategorizeYourMember.csprojResolveAssemblyReference.cache
+C:\Users\Schools_home\source\repos\CategorizeYourMember\CategorizeYourMember\obj\Debug\netcoreapp2.0\CategorizeYourMember.csproj.CoreCompileInputs.cache
+C:\Users\Schools_home\source\repos\CategorizeYourMember\CategorizeYourMember\obj\Debug\netcoreapp2.0\CategorizeYourMember.AssemblyInfoInputs.cache
+C:\Users\Schools_home\source\repos\CategorizeYourMember\CategorizeYourMember\obj\Debug\netcoreapp2.0\CategorizeYourMember.AssemblyInfo.cs
+C:\Users\Schools_home\source\repos\CategorizeYourMember\CategorizeYourMember\obj\Debug\netcoreapp2.0\CategorizeYourMember.dll
+C:\Users\Schools_home\source\repos\CategorizeYourMember\CategorizeYourMember\obj\Debug\netcoreapp2.0\CategorizeYourMember.pdb
